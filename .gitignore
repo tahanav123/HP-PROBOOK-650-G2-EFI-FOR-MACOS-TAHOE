@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ProperTree and plist backup files
+*.bak
+*.plist.bak
+
+# Text editor backups
+*.swp
+*~
